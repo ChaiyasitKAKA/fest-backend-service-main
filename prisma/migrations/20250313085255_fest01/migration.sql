@@ -1,3 +1,5 @@
+-- Active: 1744875071566@@mysql-2db123e2-sau-67b9.h.aivencloud.com@27378@defaultdb
+ 
 -- CreateTable
 CREATE TABLE `user_tb` (
     `userId` INTEGER NOT NULL AUTO_INCREMENT,

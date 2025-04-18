@@ -20,7 +20,7 @@ app.use("/images/fests", express.static("images/fests"));
 //เอาไว้เทสว่ารับ request/response ได้ไหม
 app.get("/", (request, response) => {
   response.json({
-    message: "Hello, welcome to server....CHANINTORN..",
+    message: "Hello, welcome to server....KAKALAMAND..",
   });
 });
 
